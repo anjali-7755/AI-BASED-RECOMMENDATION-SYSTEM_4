@@ -25,3 +25,6 @@ Programming Language: Java
 Library: Apache Mahout
 Tools: Eclipse IDE
 # OUTPUT OF THE TASK:
+![Image](https://github.com/user-attachments/assets/139ba190-82cb-4c04-b47c-979a4cc30ee2)
+
+![Image](https://github.com/user-attachments/assets/047a6590-e837-451b-8745-b17a3cbde1b0)
