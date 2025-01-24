@@ -1,4 +1,5 @@
 # AI-BASED-RECOMMENDATION-SYSTEM_4
+
 #### **COMPANY**: CODETECH IT SOLUTIONS
 #### **NAME**: ANJALI T
 #### **INTERN ID**: CT08IWY       
@@ -25,6 +26,7 @@ Generate Recommendations: Provides personalized movie recommendations for a spec
 **Programming Language**: Java
 **Library**: Apache Mahout
 **Tools**: Eclipse IDE
+
 ## OUTPUT OF THE TASK:
 ![Image](https://github.com/user-attachments/assets/139ba190-82cb-4c04-b47c-979a4cc30ee2)
 
