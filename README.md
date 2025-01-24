@@ -9,6 +9,7 @@
 
 ## **DESCRIPTION OF THE TASK**:
 This project implements a Movie Recommendation System using Apache Mahout and the collaborative filtering approach. The system provides personalized movie recommendations based on user-item ratings from the MovieLens dataset.
+
 ## **Features**:
 Collaborative Filtering: The system uses user-item ratings (ratings.csv) to generate recommendations.
 Pearson Correlation Similarity: Computes the similarity between items to suggest movies similar to those a user has rated highly.
